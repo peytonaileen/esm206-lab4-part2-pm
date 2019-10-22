@@ -47,6 +47,9 @@ ggplotly(iris_graph)
 ```
 
 
+```{r}
+datatable(msleep)
+```
 
 
 
