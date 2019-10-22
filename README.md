@@ -1,1 +1,9 @@
-# esm206-lab4-part2-pm
+# My awesome ReadMe! 
+
+ - bullet 
+ - points 
+
+Useful info!!
+
+*YAY*
+
